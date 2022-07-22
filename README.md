@@ -1,6 +1,6 @@
 # Deep Learning Image Recognition with FCL (Fully Connected Layer)
 
-### Dataset: MNISTFashionImages Dataset from Keras
+### Dataset: MNIST Fashion Images Dataset from Keras
 
 ### Params
 Soon...
